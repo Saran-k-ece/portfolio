@@ -197,11 +197,13 @@ img {
 .home__social {
   display: flex;
   flex-direction: column;
+ 
 }
+
 .home__social-icon {
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.5rem;
+  font-size: 50px;
   color: var(--second-color);
 }
 .home__social-icon:hover {
@@ -218,6 +220,11 @@ img {
 }
 .home__blob-img {
   width: 360px;
+}
+
+#head
+{
+  font-size: 40px;
 }
 
 /*BUTTONS*/
